@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.Spreadsheet {
+  margin-top: 0em !important;
+}
